@@ -2,10 +2,10 @@
 
 Utilized by ACLU Data & Analytics Team (06/2019 – Present)
 
-##List of Looks
+## List of Looks
 - A Python application using REST API calls to retrieve locations of dashboards and looks/reports within spaces in Looker. Added custom functionality by matching data, using a combination of distinct Looker API calls, to provide URL and ID of dashboards on where looks/reports can reside. 
 
-##Data Dictionary 
+## Data Dictionary 
 
 - An interactive R-shiny application with a Pythonic back-end using REST API calls to access ACLU Looker data to build a report library. 
 
